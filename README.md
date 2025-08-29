@@ -25,7 +25,7 @@ Built a machine learning–based system to recommend personalized movies using c
 
 ## 📬 Contact  
 📧 [singlamanshul2004@gmail.com]  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/manshul-singla-a78b5a266/)
+🔗 [LinkedIn](https://www.linkedin.com/in/manshul-singla-a78b5a266/)
 💻 [Portfolio Website](https://github.com/manshul144/manshul144)
 
 
