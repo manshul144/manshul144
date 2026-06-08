@@ -6,10 +6,10 @@ I am passionate about building scalable data systems, cloud-native solutions, an
 
 ## 🛠️ Tech Stack  
 
-- **Languages:** Python | SQL | Java | C | HTML | CSS | Javascript 
+- **Languages:** Python | SQL | Java | C | HTML | CSS  
 - **Machine Learning & AI:** Scikit-learn | NLP | LLMs | Transformers  
-- **Data Engineering:** ETL Pipelines | Airflow | Spark | Pandas | Numpy  
-- **Databases:** MySQL | MongoDB | Vector Databases (Pinecone, FAISS)  
+- **Data Engineering:** ETL Pipelines | Pandas | Numpy  
+- **Databases:** MySQL | MongoDB | ChromaDB  
 - **Tools & DevOps:** Git | Linux | VS Code | Jupyter  
 
 ## 📂 Projects  
